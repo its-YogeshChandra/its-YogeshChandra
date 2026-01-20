@@ -14,16 +14,27 @@ I'm a passionate blockchain developer focused on building high-performance dApps
 ### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solana,ts,react,redux,nextjs,nodejs,express,bun,mongodb,vite,tailwind,git,docker&perline=7" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Also working with:</b> <br>
-  <img src="https://img.shields.io/badge/Anchor-%233E46FF.svg?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor">
-
-  <img src="https://img.shields.io/badge/Borsh-%23ce412b.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Borsh">
+  <!-- Core & Blockchain -->
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/solana-%239945FF.svg?style=flat-square&logo=solana&logoColor=white" alt="Solana">
+  <img src="https://img.shields.io/badge/Anchor-%233E46FF.svg?style=flat-square&logo=anchor&logoColor=white" alt="Anchor">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <br>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <br>
+  <!-- Backend & Tools -->
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white" alt="Bun">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Borsh-%23ce412b.svg?style=flat-square&logo=rust&logoColor=white" alt="Borsh">
 </p>
 
 ---
