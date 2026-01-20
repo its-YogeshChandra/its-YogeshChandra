@@ -26,11 +26,11 @@ I'm a passionate blockchain developer focused on building high-performance dApps
     -   [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/Lg__Crusty)
     -   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](<!-- INSERT_DISCORD_LINK -->)
 
-### 🛠 My Rust Projects
+### My Rust Projects
 
-> ### 🦀 **[StreamWeaver](Link_to_Repo)**
+> ### **[StreamWeaver](Link_to_Repo)**
 >
-> 🚀 *A brief description of this amazing Rust tool or dApp. Explain the core problem it solves.*
+> *A brief description of this amazing Rust tool or dApp. Explain the core problem it solves.*
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](LINK_TO_REPO) &nbsp; [![Demo](https://img.shields.io/badge/Live-Demo-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](LINK_TO_DEMO)
 >
