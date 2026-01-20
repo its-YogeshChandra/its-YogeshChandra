@@ -31,7 +31,7 @@ I'm a passionate blockchain developer focused on building high-performance dApps
 
 ### 🛠 My Rust Projects
 
-> ### 🦀 **[Project Name 1](Link_to_Repo)**
+> ### 🦀 **[StreamWeaver](Link_to_Repo)**
 >
 > 🚀 *A brief description of this amazing Rust tool or dApp. Explain the core problem it solves.*
 >
@@ -39,7 +39,7 @@ I'm a passionate blockchain developer focused on building high-performance dApps
 >
 > **Stack**: ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat&logo=solana&logoColor=white)
 
-> ### ⚡ **[Project Name 2](Link_to_Repo)**
+> ### ⚡ **[Calculator](Link_to_Repo)**
 >
 > ⚡ *Another cool project summary. Maybe a high-performance CLI or a DeFi protocol.*
 >
