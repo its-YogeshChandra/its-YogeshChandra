@@ -11,7 +11,7 @@ I'm a passionate blockchain developer focused on building high-performance dApps
 -   **Learning**: <!-- Advanced topics like ZK Compression, Jito MEV, or auditing. -->
 -   **Collaborating on**: <!-- Open source Solana projects or hackathons. -->
 
-### 🛠 Tech Stack
+🛠 Tech Stack
 
 <p align="center">
   <!-- Core & Blockchain -->
