@@ -13,10 +13,18 @@ I'm a passionate blockchain developer focused on building high-performance dApps
 
 ### 🛠 Tech Stack
 
-| **Blockchain & Core** | **Frontend Ecosystem** | **Backend & Tools** |
-| :--- | :--- | :--- |
-| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)<br>![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)<br>![Anchor](https://img.shields.io/badge/Anchor-%233E46FF.svg?style=for-the-badge&logo=anchor&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)<br>![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br>![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)<br>![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br>**Metaplex** | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)<br>![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,solana,ts,react,redux,nextjs,nodejs,express,bun,mongodb,vite,tailwind,git,docker&perline=7" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Also working with:</b> <br>
+  <img src="https://img.shields.io/badge/Anchor-%233E46FF.svg?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor">
+
+  <img src="https://img.shields.io/badge/Borsh-%23ce412b.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Borsh">
+</p>
 
 ---
 
