@@ -55,9 +55,9 @@ I'm a passionate blockchain developer focused on building high-performance dApps
 >
 > **Stack**: ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat&logo=solana&logoColor=white)
 
-> ### ⚡ **[Calculator](Link_to_Repo)**
+> ### **[Calculator](Link_to_Repo)**
 >
-> ⚡ *Another cool project summary. Maybe a high-performance CLI or a DeFi protocol.*
+> *Another cool project summary. Maybe a high-performance CLI or a DeFi protocol.*
 >
 > [![GitHub](https://img.shields.io/badge/GitHub-Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](LINK_TO_REPO)
 >
