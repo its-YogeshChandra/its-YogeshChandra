@@ -25,8 +25,6 @@ I'm a passionate blockchain developer focused on building high-performance dApps
 -   **Reach me**:
     -   [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/Lg__Crusty)
     -   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](<!-- INSERT_DISCORD_LINK -->)
-    -   📧 <!-- INSERT_EMAIL_ADDRESS -->
-
 ---
 
 ### 🛠 My Rust Projects
