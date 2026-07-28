@@ -1,6 +1,6 @@
 # Hi there, I'm Yogesh 👋
 
-### 🦀 Backend Developer and Rust Enthusiast
+### 🦀 Backend Developer and Blockchain Enthusiast
 
 I'm a passionate blockchain developer focused on building high-performance dApps on **Solana**. I specialize in writing secure smart contracts with **Anchor** and building responsive web interfaces with **React/Next.js**.
 
