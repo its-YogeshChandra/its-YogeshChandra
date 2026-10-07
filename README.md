@@ -4,17 +4,10 @@ Backend engineer who leans toward systems programming and Ai Systems. I build di
 
 ---
 
-## Socials
-
-**X** — https://x.com/itsurychandra  
-**GitHub** — https://github.com/its-YogeshChandra  
-**Email** — itsurychandra@gmail.com
-
----
-
 ## What I'm building
 
 **Gridrock** - [GridRock.git](https://github.com/its-YogeshChandra/GridRock.git)
+A distributed key-value store built from scratch in Rust. 
 
 **StreamWeaver** — [StreamweaverV2](https://github.com/its-YogeshChandra/StreamweaverV2)  
 Context-aware encrypted video delivery as an API. Upload an MP4, get back an AES-128 encrypted HLS stream, AI-generated chapters, seek-bar thumbnails, and a full transcript. Rust gateway → Redis queue → async worker → S3 CDN. Zero FFmpeg or crypto code on the client side.
@@ -28,7 +21,6 @@ Solana custodial payment pipeline with on-chain multisig. Orders queue in Redis,
 
 **Amipay** — https://amypay.fun  
 Conversational USDC remittance on Solana. Say "Send $100 to Mom" — DeepSeek AI parses the intent, a Rust backend validates and orchestrates, an Anchor smart contract settles on-chain. React Native mobile app, custodial wallets, no blockchain knowledge required from the user.
-
 
 ---
 
