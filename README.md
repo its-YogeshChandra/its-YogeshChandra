@@ -27,8 +27,6 @@ Solana custodial payment pipeline with on-chain multisig. Orders queue in Redis,
 **Amipay** — https://amypay.fun  
 Conversational USDC remittance on Solana. Say "Send $100 to Mom" — DeepSeek AI parses the intent, a Rust backend validates and orchestrates, an Anchor smart contract settles on-chain. React Native mobile app, custodial wallets, no blockchain knowledge required from the user.
 
-**LearnVerge** — https://learnverge.site  
-Full-stack course selling platform. Instructors upload video courses, students stream HLS, track progress per lesson. Polyglot backend: Node.js/Express for API + Rust async worker (Tokio + Lapin) handling RabbitMQ jobs for FFmpeg video transcoding. Dockerized with Nginx.
 
 ---
 
