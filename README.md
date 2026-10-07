@@ -1,13 +1,13 @@
 ## whoami
 
-Backend engineer who leans toward systems programming and Ai Systems. I build distributed backends in **Rust**, ship on-chain programs on **Solana**, and wire everything together with modern web tooling. I like working close to the metal — async pipelines, message queues, encrypted delivery, and custodial wallet infrastructure.
+Backend engineer who leans toward systems programming and Ai Systems. I build distributed backends in **Rust** and wire everything together with modern web tooling. I like working close to the metal — async pipelines, message queues, encrypted delivery, and custodial wallet infrastructure.
 
 ---
 
 ## What I'm building
 
-**Gridrock** - [GridRock.git](https://github.com/its-YogeshChandra/GridRock.git) 
-A distributed key-value store built from scratch in Rust. 
+**Gridrock** — [Gridrock](https://github.com/its-YogeshChandra/StreamweaverV2)  
+A distributed key-value store built from scratch in Rust, implementing the Raft consensus protocol
 
 **StreamWeaver** — [StreamweaverV2](https://github.com/its-YogeshChandra/StreamweaverV2)  
 Context-aware encrypted video delivery as an API. Upload an MP4, get back an AES-128 encrypted HLS stream, AI-generated chapters, seek-bar thumbnails, and a full transcript. Rust gateway → Redis queue → async worker → S3 CDN. Zero FFmpeg or crypto code on the client side.
