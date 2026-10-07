@@ -6,7 +6,7 @@ Backend engineer who leans toward systems programming and Ai Systems. I build di
 
 ## What I'm building
 
-**Gridrock** - [GridRock.git](https://github.com/its-YogeshChandra/GridRock.git)
+**Gridrock** - [GridRock.git](https://github.com/its-YogeshChandra/GridRock.git) 
 A distributed key-value store built from scratch in Rust. 
 
 **StreamWeaver** — [StreamweaverV2](https://github.com/its-YogeshChandra/StreamweaverV2)  
