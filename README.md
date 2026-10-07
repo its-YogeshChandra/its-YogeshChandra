@@ -16,10 +16,10 @@ Backend engineer who leans toward systems programming and Ai Systems. I build di
 
 **Gridrock** - [GridRock.git](https://github.com/its-YogeshChandra/GridRock.git)
 
-**StreamWeaver** — [github.com/its-YogeshChandra/StreamweaverV2](https://github.com/its-YogeshChandra/StreamweaverV2)  
+**StreamWeaver** — [StreamweaverV2](https://github.com/its-YogeshChandra/StreamweaverV2)  
 Context-aware encrypted video delivery as an API. Upload an MP4, get back an AES-128 encrypted HLS stream, AI-generated chapters, seek-bar thumbnails, and a full transcript. Rust gateway → Redis queue → async worker → S3 CDN. Zero FFmpeg or crypto code on the client side.
 
-**Redshift** — [github.com/its-YogeshChandra/Redshift](https://github.com/its-YogeshChandra/Redshift)  
+**Redshift** — [Redshift](https://github.com/its-YogeshChandra/Redshift)  
 Solana custodial payment pipeline with on-chain multisig. Orders queue in Redis, a Rust async worker executes create → approve (×5 owners) → treasury transfer on-chain via Anchor. Monitored by a real-time terminal dashboard built in Ratatui.
 
 ---
