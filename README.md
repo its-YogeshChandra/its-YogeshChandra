@@ -1,6 +1,6 @@
 ## whoami
 
-Backend engineer who leans toward systems programming and Ai Systems. I build distributed backends in **Rust** and wire everything together with modern web tooling. I like working close to the metal — async pipelines, message queues, encrypted delivery, and custodial wallet infrastructure.
+Backend engineer who leans toward Ai Systems. I build distributed backends in **Rust** and wire everything together with modern web tooling. I like working close to the metal — async pipelines, message queues, encrypted delivery, and custodial wallet infrastructure.
 
 ---
 
