@@ -6,7 +6,7 @@ Backend engineer who leans toward Ai Systems. I build distributed backends in **
 
 ## What I'm building
 
-**Gridrock** — [Gridrock](https://github.com/its-YogeshChandra/StreamweaverV2)  
+**Gridrock** — [Gridrock](https://github.com/its-YogeshChandra/GridRock.git)  
 A distributed key-value store built from scratch in Rust, implementing the Raft consensus protocol
 
 **StreamWeaver** — [StreamweaverV2](https://github.com/its-YogeshChandra/StreamweaverV2)  
